@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FinMag</string>
+    <string name="category">Category</string>
+    <string name="amount">Amount</string>
+    <string name="place">Place</string>
+    <string name="date">Date</string>
+    <string name="save">Save</string>
+    <string-array name="type">
+        <item>Expenses</item>
+        <item>Income</item>
+    </string-array>
+    <string name="question_title">Delete entry</string>
+    <string name="question_message">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="menu_share">Share</string>
+</resources>
